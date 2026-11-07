@@ -1,8 +1,7 @@
 ---
-name: Vega Lite Example Project
+name: Business Licenses Data Visualizations
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+description: An interactive analysis of business license types and statuses.
 custom_js:
   - vega.min
   - vega-lite.min
